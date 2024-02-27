@@ -1,6 +1,7 @@
+# ABOUT ME
 - 👋 Hi, I’m @brent-soan
 - 👀 I’m interested in watching anime.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 You can reach me through my email: brent_soan@dlsu.edu.ph
 
